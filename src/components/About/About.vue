@@ -50,16 +50,7 @@
       </p>
     </div>
     <div class="flex items-center justify-center flex-col">
-      <iframe
-        width="100%"
-        height="500"
-        src="https://www.youtube.com/embed/vAM1xXdRnH0?si=CD5q7cTIs7maV2mS"
-        title="YouTube video player"
-        frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-        referrerpolicy="strict-origin-when-cross-origin"
-        allowfullscreen
-      ></iframe>
+      <iframe width="100%" height="500" src="https://www.youtube.com/embed/ZiSOEaaCOnA?si=MnaXT7qqpM10Y7CI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
       <p class="whitespace-pre-line text-[#743D26] font-bold fontcurse mt-10 shadow-xl rounded w-full p-5">
         O mundo é um lugar plural. As pessoas têm diferentes raças, etnias,

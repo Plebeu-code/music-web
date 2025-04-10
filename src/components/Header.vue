@@ -14,13 +14,14 @@
       </div>
       <nav class="mt-5 w-full flex justify-center items-center" >
         <ul class="flex gap-5" >
-          <li><a class="uppercase text-xs text-[#743D26] font-semibold " href="#">sobre</a></li>
-          <li><a class="uppercase text-xs text-[#743D26] font-semibold " href="#">texto</a></li>
-          <li><a class="uppercase text-xs text-[#743D26] font-semibold " href="#">videos</a></li>
-          <li><a class="uppercase text-xs text-[#743D26] font-semibold " href="#">repertorio</a></li>
-          <li><a class="uppercase text-xs text-[#743D26] font-semibold " href="#">conversas</a></li>
-          <li><a class="uppercase text-xs text-[#743D26] font-semibold " href="#">links</a></li>
-          <li><a class="uppercase text-xs text-[#743D26] font-semibold " href="#">seja autor(a)</a></li>
+          <li><router-link class="uppercase text-xs text-[#743D26] font-semibold " to="/sobre">sobre</router-link></li>
+          <li><router-link class="uppercase text-xs text-[#743D26] font-semibold " to="/texto">texto</router-link></li>
+          <li><router-link class="uppercase text-xs text-[#743D26] font-semibold " to="/videos">videos</router-link></li>
+          <li><router-link class="uppercase text-xs text-[#743D26] font-semibold " to="/repertorio">repertorio</router-link></li>
+          <li><router-link class="uppercase text-xs text-[#743D26] font-semibold " to="/">conversas</router-link></li>
+          <li><router-link class="uppercase text-xs text-[#743D26] font-semibold " to="/">links</router-link></li>
+          <li><router-link class="uppercase text-xs text-[#743D26] font-semibold " to="/">seja autor(a)</router-link></li>
+          <li><a class="uppercase text-xs text-[#743D26] font-semibold " href="https://www.musicasnoplural.com/conversasplurais">Antigo site</a></li>
         </ul>
       </nav>
   </header>

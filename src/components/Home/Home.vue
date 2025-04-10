@@ -20,7 +20,7 @@
             <div class="mb-4">
               <div class="relative mx-auto">
                 <img
-                  src="@/assets/imgs/Berserk.png"
+                  src="@/assets/imgs/image7.png"
                   class="w-full rounded h-[400px]"
                 />
               </div>
@@ -28,12 +28,9 @@
             <div class="mb-4 font-medium text-[#2f302f]">Nome Teste</div>
             <div class="flex justify-between items-center">
               <div class="mt-0 font-semibold text-xl text-[#2f302f]">
-                Segundo teste
+                
               </div>
-              <span>
-                <Button icon="pi pi-heart" severity="secondary" outlined />
-                <Button icon="pi pi-shopping-cart" class="ml-2" />
-              </span>
+            
             </div>
           </div>
         </template>
@@ -42,36 +39,20 @@
     <section class="shadow-xl rounded w-full p-5">
       <span class="text-[#743D26] font-semibold text-xl">Recomendados:</span>
       <div class="flex flex-row gap-7 items-center mt-6 justify-center">
-        <iframe
-          width="360"
-          height="315"
-          src="https://www.youtube.com/embed/vAM1xXdRnH0?si=CD5q7cTIs7maV2mS"
-          title="YouTube video player"
-          frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-          referrerpolicy="strict-origin-when-cross-origin"
-          allowfullscreen
-        ></iframe>
-        <iframe
-          width="360"
-          height="315"
-          src="https://www.youtube.com/embed/lf-KK2iWVkE?si=84zqctoyDEmBjs0v"
-          title="YouTube video player"
-          frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-          referrerpolicy="strict-origin-when-cross-origin"
-          allowfullscreen
-        ></iframe>
-        <iframe
-          width="360"
-          height="315"
-          src="https://www.youtube.com/embed/lf-KK2iWVkE?si=84zqctoyDEmBjs0v"
-          title="YouTube video player"
-          frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-          referrerpolicy="strict-origin-when-cross-origin"
-          allowfullscreen
-        ></iframe>
+        <iframe width="360" height="315" src="https://www.youtube.com/embed/t0-I8t8ihr8?si=kqX_LpHomOiz7K86"
+        title="YouTube video player" frameborder="0"
+        allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+      <iframe width="360" height="315" src="https://www.youtube.com/embed/Sz_vhoMc-LM?si=F1x7PTp0U2BiboXG"
+        title="YouTube video player" frameborder="0"
+        allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+      <iframe width="360" height="315" src="https://www.youtube.com/embed/NrTlC_6I1ng?si=Okoni-X37-uIbj3Z"
+        title="YouTube video player" frameborder="0"
+        allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"></iframe>
       </div>
     </section>
     <section class="shadow-xl w-full p-5 rounded flex flex-col gap-5">
